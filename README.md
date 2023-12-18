@@ -5,7 +5,7 @@
 
 
 ## 2. 環境
-- 使用言語：PYthon,Pytorch
+- 使用言語：Python,Pytorch
 - 開発環境：google colablatory
 
 ## 3. システム構成
