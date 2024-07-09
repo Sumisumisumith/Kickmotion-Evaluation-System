@@ -2,7 +2,9 @@
 
 ## 1. 概要
 スポーツバイオメカニクス観点からの評価方法に基づいて、三次元姿勢推定(Strided Transformer)を行い関節角度推移を解析する <br>
-※詳細はpdfファイルに記載 
+※詳細はpdfファイルに記載
+![image](https://github.com/Sumisumisumith/Kickmotion-Evaluation-System/assets/130366050/17876b14-527a-45cf-8314-0230e6b34fcc)
+![image](https://github.com/Sumisumisumith/Kickmotion-Evaluation-System/assets/130366050/3c6bc79c-0a1a-4cc2-80eb-a5c33390479e)
 
 ## 2. 環境
 - 使用言語：Python3.10.12,Pytorch
