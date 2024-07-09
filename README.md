@@ -1,7 +1,7 @@
 # 研究「サッカーにおけるキックモーションの３次元姿勢推定に基づく解析」
 
 ## 1. 概要
-スポーツバイオメカニクス観点からの評価方法に基づいて、三次元姿勢推定(Strided Transformer)を行い関節角度推移を解析する<br>
+スポーツバイオメカニクス観点からの評価方法に基づいて、三次元姿勢推定(Strided Transformer)を行い関節角度推移を解析する <br>
 ※詳細はpdfファイルに記載 
 
 ## 2. 環境
@@ -28,7 +28,7 @@
    - ガウス過程力学モデル（GPDM）を用いて、全関節を考慮する
    
 ## 6．参考文献
--[StridedTransformer-Pose3D] 機械学習で動画の人物の姿勢推定 [Python] - TeDokology <br>
+- [StridedTransformer-Pose3D] 機械学習で動画の人物の姿勢推定 [Python] - TeDokology <br>
 https://www.12-technology.com/2022/07/stridedtransformer-pose3d-python.html
 
 ## 6．その他
